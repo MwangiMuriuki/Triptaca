@@ -1,0 +1,269 @@
+[
+    {
+        "id": 1001,
+        "name": "Baobab Beach Resort & Spa",
+        "location": "Ukunda, Diani Beach, Kenya",
+        "price": "USD 250",
+        "rating": "4.5",
+        "coordinates": {
+            "longitude": 39.56800835397675,
+            "latitude": -4.334854382588266
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Ocean View",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Located on the world famous Diani Beach. The resort comprises three luxurious properties – The Baobab, The Maridadi and Kole Kole, offering a unique selection of exquisite accommodation and facilities spread across the resort grounds. Guestrooms have been specifically designed to provide paramount comfort and luxury for all our clients. Guests may utilise leisure facilities across the resort including 3 swimming pools, dining areas and much more.",
+        "featuredImage": "baobab"
+    },
+    {
+        "id": 1002,
+        "name": "Swahili Beach Resort & Spa",
+        "location": "Diani Beach, Kenya",
+        "price": "USD 312",
+        "rating": "4.6",
+        "coordinates": {
+            "longitude": 39.586696455229564,
+            "latitude": -4.292011816930979
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Ocean View",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Swahili Beach is much more than meets the eye. Culture and history provide its very soul. From the architecture and the aromas to the music, it teases the senses. Drawing you in.",
+        "featuredImage": "swahili"
+    },
+    {
+        "id": 1003,
+        "name": "Crowne Plaza Nairobi Airport",
+        "location": "JKIA Nairobi, Kenya",
+        "price": "USD 250",
+        "rating": "4.4",
+        "coordinates": {
+            "longitude": 36.91305198404847,
+            "latitude": -1.340494551540127
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Ocean View",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "featuredImage": "crowne"
+    },
+    {
+        "id": 1004,
+        "name": "FK Resort & Spa",
+        "location": "Marua, Nyeri, Kenya",
+        "price": "USD 80",
+        "rating": "3.9",
+        "coordinates": {
+            "longitude": 37.04225377987207,
+            "latitude": -0.45168310004360795
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "FK Resort and Spa is located at the Nyeri-Nanyuki junction. The resort offers a fun filled escape from life hustle and bustle. Boasting over 100 accommodation rooms wrapped in alluring style and modern decor, multiple on-site restaurants serving different cuisines, a lounge bar, conference rooms, a massive pool and extensive gardens with lots of activities for both adults and children. This is an ideal base for business travellers, family events and holiday seekers. Whether your stay is long or short, there’s a feeling of ease about this environment, with a vibe that's truly one of a kind and prestige that accompanies period décor.",
+        "featuredImage": "fk"
+    },
+    {
+        "id": 1005,
+        "name": "Nokras Riverine Resort & Spa",
+        "location": "Murang'a Road, Sagana, Kenya",
+        "price": "USD 180",
+        "rating": "3.9",
+        "coordinates": {
+            "longitude": 37.19582121288086,
+            "latitude": -0.6690266531099834
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Ocean View",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Discover Hotel Nokras an elegant hotel with exuberant service within the vicinity of Murang'a Town.This 76 beds capacity hotel is the only hotel in Murang’a County that meets the international standards preferred by Ministry of Tourism. The facilities include conference rooms with video conferencing equipment, Free high-speed wireless Internet, modern, well equipped Fitness Center, two restaurants, two bars and nyama choma grill, a nightclub and an outdoor pool.",
+        "featuredImage": "nokras"
+    },
+    {
+        "id": 1006,
+        "name": "Aberdare Country Club",
+        "location": "Mweiga, Nyeri, Kenya",
+        "price": "USD 224",
+        "rating": "4.7",
+        "coordinates": {
+            "longitude": 36.93227548404424,
+            "latitude": -0.32512259783388087
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "The Aberdare Country Club, only a three-hour drive northeast from Nairobi, is nestled on a slope of Mweiga Hill in the Aberdare Highlands, part of the Great Rift Valley. This captivating site was selected by an English couple who had decided to settle in the land of their choosing - Kenya. The Club's 1,300 acre wildlife sanctuary is teeming with eland, impalas, zebras, giraffes and the more reclusive leopards. It is a haven of unhurried charm set in a garden bursting with a profusion of colour, and with peacocks living within the lush green lawns. ",
+        "featuredImage": "aberdare"
+    },
+    {
+        "id": 1007,
+        "name": "Samburu Simba Lodge",
+        "location": "Samburu, Kenya",
+        "price": "USD 276",
+        "rating": "4.7",
+        "coordinates": {
+            "longitude": 37.621651111029195,
+            "latitude": 0.5935407082594698
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "The Samburu Simba lodge is a hotel with a jungle ambience. Watch the fiery sunset as you enjoy a cockatil by the pool and watch when nature plays the evening trumpets or close your eyes and drift off into the african dreamland. This is place where you can call a day unforgetteable yet still realize its an understatement.",
+        "featuredImage": "samburu"
+    },
+    {
+        "id": 1008,
+        "name": "Lake Naivasha Simba Lodge",
+        "location": "Lake Naivasha, Kenya",
+        "price": "USD 267",
+        "rating": "4.6",
+        "coordinates": {
+            "longitude": 36.378212084045984,
+            "latitude": -0.8227167448034551
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Lake Naivasha Simba lodge is an enchanting setting where contemporary comfort blends stylishly with nature to offer an environment where guests can refresh their senses, rekindle their love of travel and reconnect with the world around them. Each room is blissfully private; you can sit on your balcony and watch our resident wildlife, take a nap and wake up to stunning bush views. Cocoon yourself in this exclusive hideaway and let your heart start to beat to the rhythm of africa.",
+        "featuredImage": "naivasha"
+    },
+    {
+        "id": 1009,
+        "name": "Lake Kivu Serena Hotel",
+        "location": "Gisenyi, Rwanda",
+        "price": "USD 245",
+        "rating": "4.3",
+        "coordinates": {
+            "longitude": 29.26028249754415,
+            "latitude": -1.703959992840348
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Superior Rooms",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "featuredImage": "kivu"
+    },
+    {
+        "id": 1010,
+        "name": "Hotel Verde Zanzibar - Azam Luxury Resort and Spa",
+        "location": "Malawi Road, Zanzibar City, Tanzania",
+        "price": "USD 250",
+        "rating": "4.5",
+        "coordinates": {
+            "longitude": 39.213062282231085,
+            "latitude": -6.1367893179088195
+        },
+        "facilities": [
+            "Free WIFI",
+            "Free Parking",
+            "Babysitting",
+            "Car Wash",
+            "Airport Shuttle"
+        ],
+        "roomTypes": [
+            "Ocean View",
+            "Family Rooms",
+            "Pool View",
+            "Non-smoking Rooms",
+            "Suites"
+        ],
+        "description": "Located in Zanzibar City, 5.2 km from Peace Memorial Museum, Hotel Verde Zanzibar - Azam Luxury Resort and Spa provides accommodation with an outdoor swimming pool, free private parking, a fitness centre and a garden. Among the facilities of this property are a restaurant, a kids' club and room service, along with free WiFi throughout the property. Certain units at the property include a patio with pool view. At the hotel every room has air conditioning, a desk, a balcony with a garden view, a private bathroom, a flat-screen TV, bed linen and towels. All rooms include a safety deposit box, while certain rooms here will provide you with a terrace and others also provide guests with sea views. All units will provide guests with a wardrobe and a kettle.",
+        "featuredImage": "zanzibar"
+    }
+  
+]

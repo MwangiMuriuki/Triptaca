@@ -1,0 +1,6 @@
+framework module Pods_Tripitaca {
+  umbrella header "Pods-Tripitaca-umbrella.h"
+
+  export *
+  module * { export * }
+}
